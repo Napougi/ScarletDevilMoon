@@ -1,4 +1,4 @@
-#[Thunderstore Link](https://thunderstore.io/c/lethal-company/p/Napougi/ScarletDevilMoon/)
+# [Thunderstore Link](https://thunderstore.io/c/lethal-company/p/Napougi/ScarletDevilMoon/)
 
 # Scarlet Devil Moon
 ### If anything is broken, or you want to tell me something my discord is napougi
